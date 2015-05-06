@@ -71,6 +71,8 @@ configure :build do
 
   activate :minify_html
 
+  activate :imageoptim
+
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end

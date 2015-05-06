@@ -15,3 +15,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 gem "middleman-slim"
 gem "middleman-minify-html"
+gem 'middleman-imageoptim'
